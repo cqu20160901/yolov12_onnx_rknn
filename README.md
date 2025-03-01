@@ -2,7 +2,7 @@
 yolov11 部署版本，将DFL放在后处理中，便于移植不同平台,后处理为C++部署而写，python 测试后处理时耗意义不大。
 
 
-导出onnx的流程说明[【yolov11 部署瑞芯微rk3588、RKNN部署工程难度小、模型推理速度快】](https://blog.csdn.net/zhangqian_1/article/details/142722526)
+导出onnx的流程说明[【yolov12 部署瑞芯微rk3588、RKNN部署工程难度小、模型推理速度快】](https://blog.csdn.net/zhangqian_1/article/details/142722526)
 
 # 文件夹结构说明
 
@@ -26,7 +26,7 @@ onnx 结果
 
 [rk3588 C++部署代码参考链接](https://github.com/cqu20160901/yolov12_dfl_rknn_Cplusplus)
 
-![image](https://github.com/user-attachments/assets/4074a3f9-55bd-4b1b-8b0f-8b0fccea360d)
+![image](https://github.com/user-attachments/assets/d171a4bf-4729-48b0-b474-36a85b62fb92)
 
 
 时耗
