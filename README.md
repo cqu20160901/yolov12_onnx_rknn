@@ -24,9 +24,15 @@ onnx 结果
 
 # rk3588 部署结果
 
-[rk3588 C++部署代码参考链接](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus)
+[rk3588 C++部署代码参考链接](https://github.com/cqu20160901/yolov12_dfl_rknn_Cplusplus)
 
-![image](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus/blob/main/examples/rknn_yolov11_demo_dfl_open/test_result.jpg)
+![image](https://github.com/user-attachments/assets/4074a3f9-55bd-4b1b-8b0f-8b0fccea360d)
+
 
 时耗
-![image](https://github.com/cqu20160901/yolov11_dfl_rknn_Cplusplus/blob/main/examples/rknn_yolov11_demo_dfl_open/yolov11_rk3588_costtime.png)
+![image](https://github.com/user-attachments/assets/d096a553-41a4-4538-bdb8-a814c0bdb42d)
+
+这个时耗非常高，查看转rknn时的日志，很多操作切换到cpu上进行计算。
+![image](https://github.com/user-attachments/assets/2c347cc1-8ea3-49fc-ba86-3f1496772cd9)
+
+
