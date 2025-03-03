@@ -14,19 +14,22 @@ yolov12_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rknn�
 
 pytorch结果
 
-![image](https://github.com/user-attachments/assets/e02a5065-4ad5-48b9-875a-fdb3b9d73618)
+![test (3)](https://github.com/user-attachments/assets/77806053-dd5d-46b4-9bae-83acd4c1cd8c)
+
 
 
 onnx 结果
 
-![image](https://github.com/cqu20160901/yolov12_onnx_rknn/blob/main/yolov12_onnx/test_onnx_result.jpg)
+![test_onnx_result](https://github.com/user-attachments/assets/cf71ae9c-4f4d-48c8-b6a3-e58807c87327)
+
 
 
 # rk3588 部署结果
 
 [rk3588 C++部署代码参考链接](https://github.com/cqu20160901/yolov12_dfl_rknn_Cplusplus)
 
-![image](https://github.com/user-attachments/assets/d171a4bf-4729-48b0-b474-36a85b62fb92)
+![test_result](https://github.com/user-attachments/assets/3c6d029a-3251-4f50-b000-2775a4410d65)
+
 
 
 时耗
